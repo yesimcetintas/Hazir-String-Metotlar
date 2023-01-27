@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/bin/Debug/net6.0/hazir metotlar string
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/bin/Debug/net6.0/hazir metotlar string.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/bin/Debug/net6.0/hazir metotlar string.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/bin/Debug/net6.0/hazir metotlar string.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/bin/Debug/net6.0/hazir metotlar string.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/refint/hazir metotlar string.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/hazir metotlar string.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/hazir metotlar string/obj/Debug/net6.0/ref/hazir metotlar string.dll
